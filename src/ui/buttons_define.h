@@ -1,0 +1,10 @@
+#ifndef CONTROLLER_BUTTONS_DEFINE_H_
+#define CONTROLLER_BUTTONS_DEFINE_H_
+
+#define BUTTON_TAPTEMPO 0
+#define BUTTON_2 8
+#define BUTTON_3 16
+#define BUTTON_4 24
+
+
+#endif
