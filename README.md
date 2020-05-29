@@ -1,5 +1,7 @@
 # Synth
 
+This is a WIP wavetable synthesizer on a STM32F3 microcontroller.
+
 ## Installation
 ### Clone this repo
     git clone https://github.com/Seveen/stm32-synth.git
